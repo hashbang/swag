@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1500" viewBox="0 0 1500 1500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 9.684px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="#!" class="cls-1" transform="translate(751.765 1135.264) scale(133.825 132.718)"><tspan x="0">#!</tspan></text>
+  <text id="hashbang.sh" class="cls-2" transform="translate(751.342 1441.546) scale(19.551 19.484)"><tspan x="0">hashbang.sh</tspan></text>
+  <text id="Teach._Learn._Make_things_do." data-name="Teach. Learn. Make things do." class="cls-2" transform="translate(752.003 84.624) scale(8.32 8.301)"><tspan x="0">Teach. Learn. Make things do.</tspan></text>
+</svg>
